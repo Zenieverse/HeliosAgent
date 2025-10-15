@@ -1,7 +1,9 @@
 # HeliosAgent
 Helios Agent - AI DevOps Dashboard, an autonomous cloud operations and compliance engineer that monitors, optimizes, and remediates AWS environments using reasoning-driven AI. It acts as your always-on AI DevOps partner — using Amazon Bedrock AgentCore, SageMaker, and AWS Lambda to automate complex tasks like cost optimization, instance rightsizing, anomaly detection, and security compliance.
 
+https://g.co/gemini/share/26f02c3190b7
 
+https://poe.com/HeliosAgent
 
 
 
